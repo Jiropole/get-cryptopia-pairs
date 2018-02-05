@@ -1,0 +1,15 @@
+{
+  "name": "cryptopia-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cbank/cryptopia": "0.0.4",
+    "wreck": "^14.0.2"
+  }
+}

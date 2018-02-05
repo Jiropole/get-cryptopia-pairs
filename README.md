@@ -1,0 +1,1 @@
+# get-cryptopia-pairs
